@@ -6,3 +6,12 @@ map {
 .scroll {
   height: 100%;
 }
+#title{
+	color: red;
+	font-family: monospace;
+	font-size: 40px;
+}
+#bar{
+	background: orange;
+	border: none;
+}
